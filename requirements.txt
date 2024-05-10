@@ -25,5 +25,6 @@ rsa>=4.9
 simplegmail>=4.1.1
 six>=1.16.0
 soupsieve>=2.5
+tqdm>=4.66.4
 uritemplate>=4.1.1
 urllib3>=2.2.1
