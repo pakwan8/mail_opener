@@ -25,6 +25,7 @@ if __name__ == '__main__':
             remove("gmail_token.json")
         else:
             print("\033[96mabort\033[0m")
+            remove("gmail_token.json")
 
     except KeyboardInterrupt:
         remove("gmail_token.json")
